@@ -1,11 +1,10 @@
-#Conteúdo Programático
-##Módulo 1 - Introdução
+#Módulo 1 - Introdução
   * O que é um ORM?
   * Vantagens e desvantagens de um ORM
   * Imersão
   * Mapeamento
 
-##Módulo 2 - Operações Básicas
+#Módulo 2 - Operações Básicas
   * CRUD (Create, Read, Update e Delete)
   * LazyLoad e EagerLoad
   * Utilizando Include
@@ -13,7 +12,7 @@
   * Queries com LINQ
   * First, Single, Any, Contains, Where e Find
 
-##Módulo 3 - Otimização
+#Módulo 3 - Otimização
   * Ferramentas 
     - EF Profiler
   * Performance
@@ -28,7 +27,7 @@
     - Versionando o Banco de Dados com Migration
     - Capturando erros
     
-##Módulo 4 - Repository Pattern
+#Módulo 4 - Repository Pattern
   * O que é o Repository Pattern?
     - Cenários de uso
     - Utilizando múltiplas fontes de dados
