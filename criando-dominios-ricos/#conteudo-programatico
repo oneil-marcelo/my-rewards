@@ -1,0 +1,52 @@
+#Módulo 1 - Introdução
+  * O que é o DDD?
+  * Quando devo aplicar DDD?
+  * Elementos do DDD
+  * Entidades VS Value Objects
+  * Agregates e Agregate Roots
+  * Repositórios
+  * Serviços
+  * Domain Events
+  
+#Módulo 2 - Princípios SOLID
+  * Single Responsibility Principle
+  * Open/Closed Principle
+  * Liskov Substitution Principle
+  * Interface Segregation Principle
+  * Dependency Inversion Principle
+  * Dont Repeat Yourself Principle
+  
+#Módulo 3 - Testes
+  * TDD ou DDD?
+  * O que eu devo testar?
+  * Arrange, Act, Assert
+  * Testando por acerto
+  * Testando por excessões
+  * Testando o domínio
+  * Fake Repository
+  * Mocks
+  
+  
+#Módulo 1 - DDD no mundo real
+  * O que é o DDD?
+  * Quando devo aplicar DDD?
+  * Elementos do DDD
+  * Entidades VS Value Objects
+  * Agregates e Agregate Roots
+  * Repositórios
+  * Serviços
+  * Domain Events
+  * Single Responsibility Principle
+  * Open/Closed Principle
+  * Liskov Substitution Principle
+  * Interface Segregation Principle
+  * Dependency Inversion Principle
+  * Dont Repeat Yourself Principle
+  * DDD ou TDD?
+  * O que eu devo testar?
+  * Arrange, Act, Assert
+  * Testando por acerto
+  * Testando por excessões
+  * Testando o domínio
+  * Fake Repository
+  * Mocks
