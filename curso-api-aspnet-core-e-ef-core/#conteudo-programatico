@@ -1,1 +1,26 @@
-#Módulo 1
+#Módulo 1 - Introdução e Configuração do Ambiente
+  * Introdução
+  * Ferramentas
+  * Configurando o Ambiente: .NET Core
+  * Configurando o Ambiente: Docker
+  * Configurando o Ambiente: SQL Server
+  * Configurando o Ambiente: SQL Server Operations Studio
+  * Configurando o Ambiente: Visual Studio Code
+  
+#Módulo 2 - Imersão
+  * Modelagem de Dados
+  * Introdução ao Entity Framework Core
+  * Mapeamento Objeto Relacional
+  * Criando a API 
+  * Adicionando MVC
+  * Rotas e CRUD
+  * ViewModels
+  * Fail Fast Validations
+  * Repository Pattern
+  * Queries
+  * Versionamento
+  * Cache
+  * Compressão
+  * Documentação
+  * Publicação
+  * Monitoramento
