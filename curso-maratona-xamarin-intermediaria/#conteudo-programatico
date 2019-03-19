@@ -1,41 +1,42 @@
-#Módulo 1 - Introdução
-  * O que é um ORM?
-  * Vantagens e desvantagens de um ORM
-  * Imersão
-  * Mapeamento
+#Módulo 1 - Xamarin.Forms e MVVM - 02hrs
+  * Introdução ao MVVM
+  * Conceitos Básicos do MVVM
+  * Binding - Mecanismo de Binding
+  * Commands e Alerts
+  * Trabalhando com Coleções
+  * Coleções com classes customizadas
+  * Conceito de Navegação com Xamarin.Forms
+  * Navegação com MVVM
+  * Finalizando
 
-#Módulo 2 - Operações Básicas
-  * CRUD (Create, Read, Update e Delete)
-  * LazyLoad e EagerLoad
-  * Utilizando Include
-  * Utilizando Join, Group e OrderBy
-  * Queries com LINQ
-  * First, Single, Any, Contains, Where e Find
+#Módulo 2 - Xamarin.Forms e Interface (XAML) - 04hrs
+  * O que é XAML?
+  * Sixtaxe Básica do XAML
+  * Criando estilos no XAML
+  * Mão na Massa: Fazendo a Tela de Categoria!
+  * Mão na Massa: Criando o nosso Controle, o MyListView!
+  * Mão na Massa: Criando nossa Tela de Conteúdo!
+  * Mão na Massa: WebView no Xamarin.Forms pode?
+  * Mão na Massa: Criando nossa tela de Sobre.
+  * Mão na Massa: Criando a tela de Pesquisa!
 
-#Módulo 3 - Otimização
-  * Ferramentas 
-    - EF Profiler
-  * Performance
-    - Cold vs. Warm Query Execution
-    - Caching in the Entity Framework
-    - Autocompiled Queries
-    - NoTracking Queries
-    - Query Execution Options
-  * Fine Tunnings
-    - Trabalhando com GUIDs
-    - Trabalhando com índices
-    - Versionando o Banco de Dados com Migration
-    - Capturando erros
+#Módulo 3 - Xamarin.Forms e Social Login - 01hr
+  * Introdução e Agenda
+  * Social Login no meu App?
+  * Social Login com Azure Mobile Apps
+  * Demo - Social Login com Azure Mobile Apps
+  * Incluindo o Azure Mobile Apps  no seu Aplicativo Xamarin.Forms
+  * Configurando o Azure  Mobile Apps  no seu aplicativo Xamarin.Forms
+  * Autenticando usuários com o Social Login
     
-#Módulo 4 - Repository Pattern
-  * O que é o Repository Pattern?
-    - Cenários de uso
-    - Utilizando múltiplas fontes de dados
-    - Repositório genérico: Quando utilizar?
-  * O que é Dependency Injection?
-    - Injetando repositórios
-    - Injetando serviços e outros objetos
-  * Unity of work
-    - O que é o unit of work?
-    - Transações entre repositórios
+#Módulo 4 - Push Notification - 01hr
+  * O que é e como funciona o Push Notification?
+  * Configurando o Ambiente Android
+  * Configurando o Ambiente iOS
+  * Configurando o Azure Notification Hub
+  * App Android: Configurando e entendendo o fluxo do Push Notification
+
+#Módulo 5 - Publicando seu app na store - 1/2hr
+  * Publicando seu app Android na store
+  * Publicando seu app iOS na store
 
