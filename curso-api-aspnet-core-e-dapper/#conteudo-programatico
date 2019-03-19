@@ -1,0 +1,62 @@
+#Módulo 1 - Introdução e Configuração do Ambiente
+  * Introdução
+  * Instalação e Ferramentas
+  * .NET Framework, .NET Core, .NET Standard
+  * Organizando a Solução
+  * Sub Domínios
+  * Separação em Contextos Delimitados
+  * OOP: Classes
+  * OOP: Modificadores
+  * OOP: Sealed/Abstract
+  * OOP: Interfaces e Sobrescrita
+  * Definindo as Entidades
+  * Corrupção no Código
+  * Ajustando as Entidades
+  * Value Objects
+  * Collections
+  * Modelando o Pedido
+  * Simulando o Pedido
+  * Exceptions e Validações
+  * Implementando Notificações
+  * Compartilhando Informações entre Contextos Delimitados
+  * Criando pacotes com NuGet
+  * Testando VOs
+  * Testando Entidades
+  * CQRS
+  * Commands
+  * Criando o primeiro Command
+  * Criando os demais Commands
+  * Fail Fast Validations
+  * Aplicando Validações
+  * Testando os Commands
+  * Handlers
+  * Criando um Handler
+  * Repositórios
+  * Serviços
+  * Injeção de Dependência
+  * Mocks e Fakes
+  * Testando os Handlers
+  * Criando o Banco de Dados
+  * Criando as Stored Procedures
+  * Criando o Data Context 
+  * Criando o Repositório
+  * Criando as Queries
+  * Iniciando o projeto Web
+  * Adicionando MVC
+  * Criando um Controller
+  * Padrão REST 
+  * CRUD
+  * Testando os CRUD
+  * Injeção de Dependência
+  * Utilizando os Repositórios
+  * Utilizando os Handlers
+  * Versionando a API
+  * Cache
+  * Compressão
+  * Padronização
+  * Documentando a API com Swagger
+  * Utilizando ELMAH para log de erros
+  * Utilizando o AppSettings
+  * Utilizando Application Insights
+  * FINAL: Deploy da Aplicação na Nuvem
+  
