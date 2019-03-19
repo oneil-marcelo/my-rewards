@@ -1,0 +1,50 @@
+#Módulo 1 
+  * Criando Meu Aplicativo com Xamarin.Forms e MVVM
+  * Criando as Interfaces do meu APP com XAML
+  * Depurando meu Aplicativo com Emuladores e Simuladores
+
+#Módulo 2 
+  * Criando e Utilizando Value Converters
+  * Criando e Utilizando Effects
+  * Criando e Utilizando Behaviors
+  * Criando e Utilizando Triggers
+
+#Módulo 3
+  * Introdução
+  * Criando e Utilizando Custom Controls
+  * Criando e Utilizando Custom Views
+  * Criando e Utilizando Custom Renderes
+  * Criando Componentes personalizados no Xamarin Forms
+
+#Módulo 4
+  * Criando e Utilizando XAML Themes
+  * Reutilizando Styles
+  * Herança de Estilos
+  * Acessibilidade
+  * Temas
+
+#Módulo 5 
+  * Platform Specifics
+  * Plugins
+
+#Módulo 6 
+  * Messaging Center
+
+#Módulo 7 
+  * O que é o Deep Linking
+
+#Módulo 8 
+  * Introdução
+  * O que é Linker
+  * Como Diminuir o Tamanho do Android Xamarin Forms com o Linker
+  * Como Diminuir o Tamanho do iOS Xamarin Forms com o Linker
+  
+#Módulo 9
+  * Introdução
+  * Ciclo de Vida - Build
+  * Ciclo de Vida - Test
+  * Ciclo de Vida - Distribute
+  * Ciclo de Vida - Analytics
+  * Ciclo de Vida - Crashes
+  * Ciclo de Vida - Notificações Push
+  * Considerações Finais
