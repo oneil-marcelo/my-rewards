@@ -1,4 +1,4 @@
-#Módulo 1 - Xamarin.Forms e MVVM - 02hrs
+#Módulo 1 - Xamarin.Forms e MVVM
   * Introdução ao MVVM
   * Conceitos Básicos do MVVM
   * Binding - Mecanismo de Binding
@@ -9,7 +9,7 @@
   * Navegação com MVVM
   * Finalizando
 
-#Módulo 2 - Xamarin.Forms e Interface (XAML) - 04hrs
+#Módulo 2 - Xamarin.Forms e Interface (XAML)
   * O que é XAML?
   * Sixtaxe Básica do XAML
   * Criando estilos no XAML
@@ -29,14 +29,14 @@
   * Configurando o Azure  Mobile Apps  no seu aplicativo Xamarin.Forms
   * Autenticando usuários com o Social Login
     
-#Módulo 4 - Push Notification - 01hr
+#Módulo 4 - Push Notification
   * O que é e como funciona o Push Notification?
   * Configurando o Ambiente Android
   * Configurando o Ambiente iOS
   * Configurando o Azure Notification Hub
   * App Android: Configurando e entendendo o fluxo do Push Notification
 
-#Módulo 5 - Publicando seu app na store - 1/2hr
+#Módulo 5 - Publicando seu app na store 
   * Publicando seu app Android na store
   * Publicando seu app iOS na store
 
