@@ -1,2 +1,3 @@
-# rewards
-Aqui se encontra o que conquistei no caminho por onde passei.
+# Rewards
+Nesse repositório encontra-se os certificados dos cursos de aperfeiçoamento realizados nos últimos anos.
+
