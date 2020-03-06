@@ -13,6 +13,6 @@ A visita pode ficar ainda mais objetiva, já que cada arquivo tem um breve resum
 
 #### *Legendas tornam a visita mais dinâmica* ####
 
-#### *Visiualização dos certificados* ####
+#### *Visualização dos certificados* ####
 
 
