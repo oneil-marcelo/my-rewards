@@ -10,6 +10,7 @@ A visita pode ficar ainda mais objetiva, já que cada arquivo tem um breve resum
 
 ## Visão Geral
 #### *Separação por pastas* ####
+![](print/print-lista-cursos.png)
 
 #### *Legendas tornam a visita mais dinâmica* ####
 
