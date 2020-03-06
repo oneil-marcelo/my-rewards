@@ -10,10 +10,14 @@ A visita pode ficar ainda mais objetiva, já que cada arquivo tem um breve resum
 
 ## Visão Geral
 #### *Separação por pastas* ####
-![](print/print-lista-cursos.png)
+![](prints/print-lista-cursos.png)
 
 #### *Legendas tornam a visita mais dinâmica* ####
+![](prints/print-lista-certificados.png)
 
 #### *Visualização dos certificados* ####
+![](prints/print-api-aspnetcore.png)
+
+![](prints/print-maratona-xamarin.png)
 
 
